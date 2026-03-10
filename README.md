@@ -2,7 +2,7 @@
 
 A k9s-inspired interactive CV for DevOps/Cloud Engineers. Navigate your career like you navigate Kubernetes clusters.
 
-**Live Demo:** [cv.fullstack.pw](https://cv.fullstack.pw)
+**Live Demo:** [cv.homelabz.eu](https://cv.homelabz.eu)
 
 ```
 ▗▄▄▖ ▗▄▄▖  ▗▄▖  ▗▄▄▖
